@@ -96,8 +96,8 @@ print(df_scaled_outliers_czs)
 
 ##### CustomIQRScaler:
 
-- `lower_bound`: Multiplier applied to Interquartile Range (IQR) for identifying lower bound. The default value is 1.5 or Q1 - 1.5*IRQ..
-- `upper_bound`: Multiplier applied to Interquartile Range (IQR) for identifying upper bound. The default value is 1.5 or Q3 + 1.5*IRQ..
+- `lower_bound`: Multiplier applied to Interquartile Range (IQR) for identifying lower bound. The default value is 1.5 or Q1 - 1.5*IRQ.
+- `upper_bound`: Multiplier applied to Interquartile Range (IQR) for identifying upper bound. The default value is 1.5 or Q3 + 1.5*IRQ.
 
 ## Contributions
 
