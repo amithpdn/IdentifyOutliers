@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='IdentifyOutliers',
-    version='0.0.2',
+    version='0.1.0',
     packages=['IdentifyOutliers'],
     install_requires=[
         'pandas',
@@ -11,7 +11,7 @@ setup(
     ],
     author='Amith Lokugamage',
     author_email='amithpdn@gmail.com',
-    description='IdentifyOutliers provides a combined functionality of scaling data using the standard scaler approach while also removing outliers based on a z-score threshold for panda\'s projects.',
+    description='A Python package for efficient scaling and outlier handling of pandas DataFrames using the some of the most popular outlier elimination approaches.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/amithpdn/IdentifyOutliers/',
