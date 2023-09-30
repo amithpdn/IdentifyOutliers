@@ -105,4 +105,4 @@ Contributions are welcome! Please create an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the [MIT License] (https://github.com/amithpdn/IdentifyOutliers/blob/master/LICENSE.TXT).
+This project is licensed under the [MIT License](https://github.com/amithpdn/IdentifyOutliers/blob/master/LICENSE.TXT).
